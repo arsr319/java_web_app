@@ -9,7 +9,7 @@
 <body>
 
 	<center>
-		<h2>Hello World</h2>
+		<h2>Hello CICD</h2>
 		<h3>
 			<label for="name">Enter your name:</label>
 			<input name="name" id="nameInput" type="text">
